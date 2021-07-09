@@ -1,0 +1,232 @@
+.jumbotron{
+  margin: auto;
+  background-image: url('image/lap.jpg');
+  width: 90%;
+  height: 650px;
+  background-size: cover;
+  opacity: 0.9;
+  color: #fff;
+  text-align: center;
+  padding: 3% 10% 8%;
+  margin-top: 10%;
+  background-repeat: no-repeat;
+     align-items: center;
+
+
+}
+.navbar{
+
+  margin-bottom: 3rem;
+  padding-left: 0;
+  padding-top: 25px;
+  padding-bottom: 2rem;
+
+}
+.navbar-brand{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 2.3rem;
+  padding-left: 10px;
+  letter-spacing: 0.3rem;
+}
+/* home */
+.home-para{
+color: #fff;
+font-size: 2.5rem;
+line-height: 1.5;
+margin-top: 17rem;
+font-family: 'Parisienne', cursive;
+}
+.home-heading{
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-family: 'Arapey', serif;
+  letter-spacing: 0.2rem;
+}
+/* Footer */
+.footer{
+  background-color: #fff;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+#Fotter{
+
+
+  padding-bottom: 16px;
+}
+.icon12{
+  margin: 30px 20px;
+  width: 40px;
+  color: #000;
+  opacity: 1;
+
+
+}
+/* Community */
+.container-fluid{
+
+  width: 90%;
+  height: 600px;
+  text-align: center;
+  padding-top: 30px;
+  padding: 20px;
+  background-color: #E8F6EF;
+  margin: 30px auto;
+
+}
+.comm-heading{
+  padding: 20px;
+  font-size: 2.5rem;
+  font-family: 'Arapey', serif;
+}
+.comm-para{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 15px;
+}
+/* contact.html */
+.btn1{
+margin-top: 20px;
+display: block;
+}
+
+.input{
+  margin-bottom: 30px;
+  display: block;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-color: #000;
+  border-width: 2px;
+  background-color: #E8F6FE;
+}
+.Form{
+  padding: 20px;
+  margin-left: 60px;
+  text-align: center;
+  color: #E8F6EF;
+
+}
+.contact{
+  margin-top: 152px;
+  height: 50px;
+  margin: auto;
+  text-align: center;
+  background-color: #E8F6EF;
+}
+@media (max-width: 576px)
+{
+  .contact-div{
+    width: 90%;
+    margin-top: 40px;
+    height: 650px;
+    margin: auto;
+    text-align: center;
+
+  }
+
+}
+.contact-heading: {
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-family: 'Arapey', serif;
+  letter-spacing: 0.2rem;
+  margin-top: 300px;
+}
+.gallery{
+  margin: 150px auto;
+  background-color: #E8F6EF;
+  max-width: 1260px;
+  min-height: 650px;
+  text-align: center;
+}
+.image{
+  width: 280px;
+  height: 350px;
+  margin: 10px 10px 20px 10px;
+  padding: 10px;
+  border-radius: 10%;
+  filter: drop-shadow(10px 10px 12px gray);
+
+
+}
+.image:hover{
+  transform: scale(0.9);
+
+
+
+}
+.des{
+  width: 300px;
+  height: 350px;
+  margin: 30px;
+  display: inline-block;
+    font-family: 'Arapey', serif;
+    font-size: 1.3rem;
+
+}
+.about-heading{
+  font-size: 3.5rem;
+  color: #fff;
+      font-family: 'Arapey', serif;
+      text-align: center;
+      margin: 100px auto auto auto;
+        line-height: 1.5;
+        letter-spacing: 0.2rem;
+}
+.contact-div{
+  width: 90%;
+  height: 750px;
+  background-color: #E8F6EF;
+  margin-top: 152px;
+  text-align: center;
+  padding: 20px;
+}
+.about-div{
+  height: 400px;
+}
+.member{
+  width: 90%;
+  height: auto;
+  background-color: #E8F6EF;
+  text-align: center;
+  padding: auto;
+  margin: auto;
+
+
+}
+.mem-heading{
+  font-size: 1.7rem;
+  font-family: 'Arapey', serif;
+}
+.name{
+  font-size: 1.3rem;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.img{
+  height: 120px;
+  width: 120px;
+  padding: 20px;
+  border-radius: 100%;
+
+}
+.member1{
+  width: 90%;
+  height: auto;
+  background-color: #E8F6EF;
+  text-align: center;
+  margin: auto;
+
+
+
+}
+.button{
+  margin-top: 40px;
+  text-align: center;
+  padding-top: 40px;
+}
